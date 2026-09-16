@@ -1,18 +1,18 @@
 # 본문 이미지 출처 (Pexels)
 
-Pexels 라이선스는 상업적 사용과 수정을 허용하며 출처 표기 의무는 없습니다. 기록용으로 남겨 둡니다.
+사람이 없는 공부·도서관·노트·책 사진만 씁니다. Pexels 라이선스는 상업적 사용과 수정을 허용하며 출처 표기 의무는 없습니다. 기록용입니다.
 
-| 파일 | 촬영자 | 원본 |
-|---|---|---|
-| body/1.jpg | Zen Chung | https://www.pexels.com/photo/crop-asian-adolescent-with-copybook-on-street-5537488/ |
-| body/2.jpg | George Pak | https://www.pexels.com/photo/college-girl-and-boy-studying-together-7972485/ |
-| body/3.jpg | Yan Krukau | https://www.pexels.com/photo/a-students-studying-together-8199148/ |
-| body/4.jpg | George Pak | https://www.pexels.com/photo/a-woman-studying-while-sitting-on-a-concrete-floor-7972305/ |
-| body/5.jpg | Zen Chung | https://www.pexels.com/photo/focused-ethnic-woman-writing-in-copybook-5538341/ |
-| body/6.jpg | Zen Chung | https://www.pexels.com/photo/serious-asian-student-writing-in-copybook-while-studying-5537485/ |
-| body/7.jpg | Norma Mortenson | https://www.pexels.com/photo/girl-in-purple-jacket-sitting-writing-on-her-notebook-8457975/ |
-| body/8.jpg | Mikhail Nilov | https://www.pexels.com/photo/a-man-writing-on-a-notebook-while-studying-7594201/ |
-| body/9.jpg | cottonbro studio | https://www.pexels.com/photo/a-man-in-jacket-sitting-on-a-chair-while-writing-on-a-notebook-6636103/ |
-| body/10.jpg | bangunstockproduction | https://www.pexels.com/photo/woman-in-denim-polo-carrying-backpack-and-holding-a-notebook-while-smiling-at-the-camera-11792276/ |
-| body/11.jpg | George Pak | https://www.pexels.com/photo/a-woman-studying-papers-7972274/ |
-| body/12.jpg | Bhupindra International Public School | https://www.pexels.com/photo/young-students-engaged-in-classroom-learning-31864438/ |
+| 파일 | 촬영자 | 내용 | 원본 |
+|---|---|---|---|
+| body/1.jpg | Mico Medel | Interior view of a modern library aisle lined with bookshelves under bright ligh | https://www.pexels.com/photo/modern-library-aisle-with-bookshelves-and-lighting-38998691/ |
+| body/2.jpg | Zetong Li | Long corridor of library bookshelves showcasing diverse textbooks and literature | https://www.pexels.com/photo/view-of-rows-of-bookshelves-in-a-college-library-16689056/ |
+| body/3.jpg | aboodi vesakaran | A well-organized library interior, showcasing rows of bookshelves stocked with v | https://www.pexels.com/photo/furniture-with-books-18620046/ |
+| body/4.jpg | Bo Ponomari | A close-up of vintage books on library shelves in London, showcasing an abundanc | https://www.pexels.com/photo/books-on-shelves-14747971/ |
+| body/5.jpg | Mico Medel | A colorful and modern library aisle with books on vibrant shelves, creating an i | https://www.pexels.com/photo/vibrant-library-bookshelves-in-modern-setting-38998690/ |
+| body/6.jpg | yangjunjun2 | A well-organized library with rows of bookshelves and books in a cozy, quiet env | https://www.pexels.com/photo/books-on-brown-wooden-shelf-10906759/ |
+| body/7.jpg | cottonbro studio | Sleek library interior showcasing rows of books and minimalist wooden furniture. | https://www.pexels.com/photo/brown-wooden-chairs-and-tables-6333728/ |
+| body/8.jpg | Fujo Cdt | Wide view of a library wall lined with colorful bookshelves filled with numerous | https://www.pexels.com/photo/extensive-library-bookshelf-featuring-rows-of-books-38481083/ |
+| body/9.jpg | mehmetakifarts | Elegant library interior featuring multiple rows of illuminated bookshelves, İst | https://www.pexels.com/photo/modern-library-interior-with-wooden-bookshelves-37330359/ |
+| body/10.jpg | Eric Lozaga | Interior view of a university library with bookshelves and study areas in Pullma | https://www.pexels.com/photo/spacious-library-aisle-with-bookshelves-and-study-tables-31138995/ |
+| body/11.jpg | Efrem  Efre | A wide-angle view of a majestic public library's interior with extensive bookshe | https://www.pexels.com/photo/people-at-the-stockholm-public-library-in-sweden-14915734/ |
+| body/12.jpg | Eric Lozaga | Wide-angle view of a modern library interior at Washington State University, Pul | https://www.pexels.com/photo/spacious-modern-library-interior-at-wsu-31139003/ |
